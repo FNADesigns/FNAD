@@ -265,12 +265,12 @@ p {
 	padding-top: 50px;
 }
 
-.mockm {
+.mockm>img{
 	position: absolute;
 	margin-left: 300PX;
 }
 
-.web p {
+.web>p {
 	display: block;
 	text-align: left;
 	margin-right: 550px;
